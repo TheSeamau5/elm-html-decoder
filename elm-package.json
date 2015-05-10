@@ -1,7 +1,7 @@
 {
     "version": "1.0.0",
     "summary": "List of common decoders for working with html",
-    "repository": "https://github.com/USER/PROJECT.git",
+    "repository": "https://github.com/TheSeamau5/elm-html-decoder.git",
     "license": "BSD3",
     "source-directories": [
         "src"
